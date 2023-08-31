@@ -1,0 +1,108 @@
+@media only screen and (max-height:414px){
+    .waterfall{
+        overflow-y: scroll;
+    }
+}
+@media only screen and (max-width:1138px)
+{.waterfall{
+    overflow-y: scroll;
+           }}
+
+@media only screen and (max-width:764px) and (min-width:595px){
+    .navbar{
+       width: 45%;   
+       }
+       .search{
+        width: 25%;
+        left: 65px;
+       }
+       .search>img{
+        right: 2.2vw;
+       }
+   
+   }
+   @media only screen and (max-width:594px){
+    .navbar{
+        width:55%;
+    }
+    .search{
+        width:20%;
+        right: -5%;
+
+    }
+    .search>img{
+        right: 2.9vw;
+       }
+       
+   }
+   @media only screen and (max-width:486px){
+    .navbar a{
+        padding: 3px;
+    }
+    .search>img{
+        right: 3.4vw;
+       }
+   }
+   @media only screen and (max-width:449px){
+        .logo{
+            width: 17%;
+        }
+        .navbar{width: 61%;}
+        .search{right: -2%;}
+   }
+   @media only screen and (max-width:408px){
+    .navbar a:nth-child(5){
+        display: none;
+    }
+
+    .logo{
+        width:20%
+    }
+.waterfall h1{
+    font-size: 25px;
+}
+   }
+
+   @media only screen and (max-width:361px){
+    .container{
+        width: 362px;
+    }
+    #container2{
+        width:362px;
+        
+    }
+    #section-2{
+        width: 362px;
+    }
+    article{
+        width: 362px;
+    }
+#renter{
+    width: 362px;
+}
+ }
+    @media only screen and (max-width:1242px){
+        .imagesdes{
+            overflow-y: scroll;
+        }
+    }
+    @media only screen and (max-height:419px){
+        .imagesdes{
+            overflow-y: scroll;
+        }
+    }
+    @media only screen and (max-width:1104px){
+        .containeralls{
+            overflow: scroll;
+        }
+    }
+    @media only screen and (max-width:554px){
+        #textme{
+            margin: 0px;
+        }
+    }
+@media only screen and (max-height:475px){
+    .containeralls{
+        overflow-y: scroll;
+        overflow-x: hidden;
+    }
