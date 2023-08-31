@@ -82,7 +82,7 @@ header{
 }
 
 .waterfall{
-    background-image: url(../images/bgcity.jpg);
+    background-image: url(bgcity.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
